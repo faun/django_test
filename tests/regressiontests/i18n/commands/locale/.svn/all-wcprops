@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14133/django/trunk/tests/regressiontests/i18n/commands/locale
+END
+dummy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14133/django/trunk/tests/regressiontests/i18n/commands/locale/dummy
+END

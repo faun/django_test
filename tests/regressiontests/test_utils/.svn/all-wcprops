@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14405/django/trunk/tests/regressiontests/test_utils
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7981/django/trunk/tests/regressiontests/test_utils/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14405/django/trunk/tests/regressiontests/test_utils/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14183/django/trunk/tests/regressiontests/test_utils/models.py
+END
+python_25.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14400/django/trunk/tests/regressiontests/test_utils/python_25.py
+END
